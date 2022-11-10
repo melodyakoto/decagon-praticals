@@ -1,0 +1,2 @@
+# decagon-praticals
+new praticals
